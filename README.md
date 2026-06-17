@@ -2,7 +2,7 @@
 A 16-bit Assembly minigame written for emu8086/DOSBox. Shoot the moving enemy to score points and win.
 
 
-
+greek(i wiil transalte it to english eventually) :
 
 Διαγραμμα ροης main
 ![Main Loop Flowchart](diagrams/main.jpg)
